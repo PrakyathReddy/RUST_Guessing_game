@@ -32,7 +32,7 @@ fn main() {
             Ordering::Equal => {
                 println!("You Win!!");
                 break;
-            },
+            }, //adding some samople comment
         }
     }
 
